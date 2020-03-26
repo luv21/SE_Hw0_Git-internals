@@ -3,5 +3,8 @@ hello world!
 sample
 
 hello
+<<<<<<< HEAD
 
 cherry
+=======
+>>>>>>> 2d442a7... Right commit
